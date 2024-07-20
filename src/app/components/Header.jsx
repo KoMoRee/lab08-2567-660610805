@@ -7,6 +7,6 @@ export default function Header() {
     <p className="text-secondary text-center">
       This lab teach you how to split react component(s)
     </p>
-  </div>
+  </div> 
   )
 }
